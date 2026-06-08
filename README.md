@@ -1,6 +1,6 @@
 # Cardiac VisionAI — VLM Fine-Tuning Pipeline
 
-Fine-tune a Vision Language Model (Qwen2-VL-2B) on cardiac CT data for automated CCTA analysis. Part of [Aventyn's AEGIS Health Intelligence Platform](https://aventyn.com).
+Fine-tune a Vision Language Model (Qwen2-VL-2B) on cardiac CT data for automated CCTA analysis. 
 
 ## Overview
 
